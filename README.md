@@ -1,0 +1,2 @@
+# streckenbericht-schalenwild
+Streckenerfassung schalenwild
