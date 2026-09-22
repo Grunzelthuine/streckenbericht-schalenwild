@@ -10,7 +10,17 @@
       "schuetze": "koelker-s",
       "bemerkung": "Kirrung Lammers",
       "zeit": "2026-09-22T20:40:20.028Z"
+    },
+    {
+      "id": "sw-mud71f0i",
+      "datum": "2026-09-04",
+      "art": "damm",
+      "kat": "hirsch-3b",
+      "fallwild": false,
+      "schuetze": "geerdes-h",
+      "von": "bruns-s",
+      "zeit": "2026-09-22T21:36:03.906Z"
     }
   ],
-  "stand": "2026-09-22T20:40:20.709Z"
+  "stand": "2026-09-22T21:36:04.330Z"
 }
