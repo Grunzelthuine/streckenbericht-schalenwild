@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "eintraege": [
+    {
+      "id": "sw-mud51qv0",
+      "datum": "2026-09-20",
+      "art": "damm",
+      "kat": "hirsch-3b",
+      "fallwild": false,
+      "schuetze": "koelker-s",
+      "bemerkung": "Kirrung Lammers",
+      "zeit": "2026-09-22T20:40:20.028Z"
+    }
+  ],
+  "stand": "2026-09-22T20:40:20.709Z"
+}
