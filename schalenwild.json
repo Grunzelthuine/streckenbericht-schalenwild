@@ -60,7 +60,17 @@
       "schuetze": "gebbe-w",
       "von": "bruns-s",
       "zeit": "2026-09-23T07:42:16.081Z"
+    },
+    {
+      "id": "sw-mudsploi",
+      "datum": "2026-05-09",
+      "art": "reh",
+      "kat": "rehbock",
+      "fallwild": false,
+      "schuetze": "dreishing-v",
+      "von": "bruns-s",
+      "zeit": "2026-09-23T07:42:44.226Z"
     }
   ],
-  "stand": "2026-09-23T07:42:16.604Z"
+  "stand": "2026-09-23T07:42:44.763Z"
 }
