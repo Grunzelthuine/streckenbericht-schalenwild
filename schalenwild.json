@@ -80,7 +80,17 @@
       "schuetze": "bruns-m",
       "von": "bruns-s",
       "zeit": "2026-09-23T07:43:11.859Z"
+    },
+    {
+      "id": "sw-mudsqofv",
+      "datum": "2026-07-31",
+      "art": "reh",
+      "kat": "rehbock",
+      "fallwild": false,
+      "schuetze": "koelker-w",
+      "von": "bruns-s",
+      "zeit": "2026-09-23T07:43:34.459Z"
     }
   ],
-  "stand": "2026-09-23T07:43:12.308Z"
+  "stand": "2026-09-23T07:43:34.941Z"
 }
